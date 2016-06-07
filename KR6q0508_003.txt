@@ -1,19 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:53:16.949058
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:53
 #+TITLE: 佛冤禪師語錄
 #+PROPERTY: CBETA_ID J37nB371
 #+PROPERTY: ID KR6q0508
 #+PROPERTY: SOURCE Jiaxing Canon Vol. 37, No. B371
 #+PROPERTY: VOL 37
 #+PROPERTY: BASEEDITION J
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0508_J_003-0023a> 
 #+PROPERTY: JUAN 3
-
- 佛冤綱禪師語錄卷第三¶
+佛冤綱禪師語錄卷第三¶
 嗣法門人印乾等編¶
 
-再住威鳳山昭覺禪院語錄
 康熙丁卯二月八日闔省護法並諸山耆德請再住¶
 昭覺師太誕辰結制藩臺劉公躬臨請上堂拈香祝¶
 聖畢維那問年來一度一番新大地眾生共此情寒¶
@@ -99,7 +97,7 @@
 位真伶俐禪和子點胸復點筋還有不落新舊者麼¶
 好看遊人著精彩等閑落地作金聲。¶
 
-還源大德為亡師請對靈小參啼烏不歇客程愁細¶
+還源大德為亡師請對靈小參啼烏不歇客程愁¶
 雨霏霏溼上樓幾度思量江上月傷嗟形影在心頭¶
 大眾還知麼籬邊黃菊盡是金粧樹頸紅葉悉為珠¶
 染向此會去上酬不報之德下化非生之眾與麼則¶
